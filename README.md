@@ -1,5 +1,5 @@
 # Customer_Fraud_Detection
-1) Tasks
+**1) Tasks**
 
  * Provide exploratory analysis of the dataset.
  * Summarise and explain the key trends in the data, providing visualisations and tabular representations as necessary.
